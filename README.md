@@ -1,2 +1,2 @@
-# Oop-lab-SE2-2
+# Oop-lab
 lab tasks 
